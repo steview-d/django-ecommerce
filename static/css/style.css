@@ -22,3 +22,9 @@ footer {
 .accountform {
     padding-top: 20px;
 }
+
+.product {
+    background-size: contain;
+    background-repeat: no-repeat;
+    min-height: 300px
+}
